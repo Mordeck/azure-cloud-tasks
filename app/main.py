@@ -6,7 +6,7 @@ from fastapi import HTTPException
 
 from sqlalchemy.orm import Session
 
-#importacion 
+#importacion de pys 
 from . import models
 from . import schemas
 from .database import engine
